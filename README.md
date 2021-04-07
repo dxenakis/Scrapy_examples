@@ -1,11 +1,11 @@
 ---------------------------------------------------------------------------------------------------------------------
-|Tool	               |Tool Description	                                                           |Tested Version  |
+|Tool	               |Tool Description	                                                            |Tested Version  |
 --------------------------------------------------------------------------------------------------------------------|
 |Python              |Python ( Tested version with below tools : 3.7.8)	                           |3.7.8           |
-|Elasticsearch       |Distributed, search and analytics engine  	                                 |7.9.3           | 
+|Elasticsearch       |Distributed, search and analytics engine  	                                  |7.9.3           | 
 |Kibana              |Elasticsearch Index visualization                                            |7.9.3           |
 |Longstash           |optional                                                                     |                |
-|Scrapy              |Scrape framework	                                                           |2.4.1           |
+|Scrapy              |Scrape framework	                                                            |2.4.1           |
 |ScrapyElasticSearch |Scrapy pipeline which allows you to store scrapy items in Elastic Search.    |0.9.2           |
 --------------------------------------------------------------------------------------------------------------------|
 
