@@ -1,1 +1,1 @@
-You can check Scrapy_examples.docx for documentation.
+You can check Scrapy.pdf for documentation.
